@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 testing git
 
-test for tommorrow
+test for yesturday
